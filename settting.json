@@ -1,0 +1,25 @@
+{
+  "workbench.colorTheme": "Seti Monokai",
+  "editor.lineHeight": 0,
+  "editor.fontSize": 22,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "markdown.preview.fontSize": 36,
+  "explorer.openEditors.visible": 0,
+  "editor.snippetSuggestions": "top",
+  "editor.detectIndentation": true,
+  "editor.minimap.enabled": false,
+  "eslint.enable": true,
+  "files.exclude": { "**/.*": true },
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  "window.menuBarVisibility": "default",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
